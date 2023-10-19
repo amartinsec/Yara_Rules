@@ -1,7 +1,7 @@
 rule btc_regex
 {
   meta:
-    description = "Regex for Bitcoin addresses. Used in Clipper/stealer malware"
+    description = "Regex for Bitcoin addresses. Used in clipper & stealer malware"
     author = "amartin@amartinsec.com / @amartinsec"
 
   strings:
